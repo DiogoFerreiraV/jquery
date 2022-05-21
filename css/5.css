@@ -1,0 +1,25 @@
+#calc{
+    margin-top: 300px;
+    margin-left: 800px;
+    font-size: 30px;
+
+}
+#somarjs{
+    background-color: rgba(227, 115, 17, 0.962);
+    border-radius: 5px;
+
+}
+#somar{
+    background-color: rgb(10, 167, 52);
+    border-radius: 5px;
+
+}
+#dividir{
+    background-color: rgb(119, 116, 116);
+    border-radius: 5px;
+
+}
+#multiplicar{
+    background-color: rgba(200, 183, 24, 0.985);
+    border-radius: 5px;
+}
